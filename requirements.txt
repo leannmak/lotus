@@ -1,0 +1,6 @@
+ansible==2.3.1
+minio==2.2.4
+poster==0.8.1
+python-etcd==0.4.4
+requests==2.1.0
+pyJWT==1.6.1
