@@ -1,7 +1,8 @@
 # lotus
 [![Build Status](https://travis-ci.org/leannmak/lotus.svg?branch=master)](https://travis-ci.org/leannmak/lotus)
+[![Coverage Status](https://coveralls.io/repos/github/leannmak/lotus/badge.svg?branch=master)](https://coveralls.io/github/leannmak/lotus?branch=master)  
 
-A simple way to connct to common open source tools such as `Ansible`, `Disconf`, `Etcd`, `Minio`, and etc. (c) 2018
+Simple APIs for common open source tools such as `Ansible`, `Disconf`, `Etcd`, `Minio`, and etc. (c) 2018
 
 ## For Toolkit Users
 ### Setup
